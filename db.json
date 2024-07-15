@@ -1,0 +1,68 @@
+{
+  "bugRatings": [
+    {
+      "iesName": "Model1",
+      "BugRating": {
+        "backlight": 1,
+        "uplight": 1,
+        "glare": 1
+      }
+    },
+    {
+      "iesName": "Model2",
+      "BugRating": {
+        "backlight": 0,
+        "uplight": 1,
+        "glare": 1
+      }
+    },
+    {
+      "iesName": "Model3",
+      "BugRating": {
+        "backlight": 2,
+        "uplight": 0,
+        "glare": 2
+      }
+    },
+    {
+      "iesName": "Model4",
+      "BugRating": {
+        "backlight": 3,
+        "uplight": 2,
+        "glare": 1
+      }
+    },
+    {
+      "iesName": "Model5",
+      "BugRating": {
+        "backlight": 4,
+        "uplight": 4,
+        "glare": 0
+      }
+    },
+    {
+      "iesName": "Model6",
+      "BugRating": {
+        "backlight": 5,
+        "uplight": 5,
+        "glare": 5
+      }
+    },
+    {
+      "iesName": "Model7",
+      "BugRating": {
+        "backlight": 2,
+        "uplight": 1,
+        "glare": 3
+      }
+    },
+    {
+      "iesName": "Model8",
+      "BugRating": {
+        "backlight": 1,
+        "uplight": 2,
+        "glare": 4
+      }
+    }
+  ]
+}
